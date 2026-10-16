@@ -12,7 +12,7 @@ Fill these in. Until a link is filled, tell the host it is missing; do not guess
 | Speaker Tracker | Use the Events Tracker (Speakers, Organization and Contact columns) until a separate one exists |
 | Automation & Deep Tech Events Tracker (event repository; also the de facto speaker list) | https://docs.google.com/spreadsheets/d/1h-0A2Bo4Pb_6iMY1T45EFFF61b3G6tc6BNPnI4NFrxg |
 | Automation & Deep Tech Luma calendar | https://luma.com/deeptechathbs |
-| ADTC design system (Luma headers, flyers) | Bundled: `assets/adtc-design-system.html`. Latest: same file in https://github.com/hbs-adtc/adtc-toolkit |
+| ADTC design system | `adtc-design-system.html` at the repo root |
 | HBS Academic Calendar | TODO |
 | MBA event calendar (event planner) | https://beech.hbs.edu/eventCalendar/eventplanner/dashboard.do (HBS sign-in required; tell the host to open it themselves) |
 
@@ -74,7 +74,7 @@ Alternative spaces if HBS rooms are full or a different feel is needed:
 Then put the event on the MBA event calendar (link above; the host signs in).
 
 ### 6. Create a Luma
-- Make the header from the design system file (see references/design.md).
+- Make the header from the design system file (see event-host/design.md).
 - Create it under the Automation & Deep Tech Luma calendar.
 
 ### 7. Food

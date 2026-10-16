@@ -1,10 +1,6 @@
 # ADTC Design System
 
-Everything visual lives in one file: `assets/adtc-design-system.html` (tokens, Luma header templates, flyer, logo variants, pillar icons, example covers, rules). Read it before making anything visual, and never invent colors, fonts or marks outside it.
-
-## Latest version
-
-The canonical copy is `adtc-design-system.html` at the root of the public repo https://github.com/hbs-adtc/adtc-toolkit. If you can run commands, `git clone --depth 1 https://github.com/hbs-adtc/adtc-toolkit` and use that copy; otherwise use the bundled one and tell the host it may be out of date. Don't read it through a web-page fetch; that returns a summary, not the exact HTML.
+Everything visual lives in one file: `adtc-design-system.html` (repo root) (tokens, Luma header templates, flyer, deck slides, email signature, logo variants, pillar icons, example covers, rules). Read it before making anything visual, and never invent colors, fonts or marks outside it.
 
 ## Making a Luma header or flyer
 
@@ -13,6 +9,12 @@ The canonical copy is `adtc-design-system.html` at the root of the public repo h
 3. Fill every `{{...}}` and delete optional blocks you don't need (co-host, subtitle, location, food badge, TBA seat). Break long titles by hand with `<br>`.
 4. Photos: ask the host for headshots and, if there's a co-host, their logo in black. Speaker split uses a square B&W crop. Panel and spotlight need background-removed B&W cutouts: if you can run Python, `pip install rembg`, remove the background, convert to grayscale, and embed as a data URI. If you can't, leave the speaker photo out rather than use one with a background.
 5. Render a PNG at native size (1080 x 1080, or 1080 x 1350 for the flyer) so the host can upload it to Luma. If you can't render, give them the HTML and tell them to screenshot it at that size.
+
+## Slides and email signature
+
+For a club deck, build from `tpl-slide-title`, `tpl-slide-thesis`, `tpl-slide-agenda`, `tpl-slide-pillars` and `tpl-slide-closing` (1920 x 1080 each). For an officer's email signature, use `tpl-email-signature`; Gmail strips SVG, so render the mark to PNG first.
+
+The repo also holds `A_DT_Club_Deck.html`, the original Claude Design export. It's a compiled bundle for people to view; don't try to read or edit it.
 
 ## Changing a template for everyone
 
