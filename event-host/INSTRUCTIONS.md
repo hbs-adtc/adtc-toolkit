@@ -10,6 +10,10 @@ Silently read `event-host/steps.md` (the checklist and what you can do at each s
 
 Other files are for when a step needs them: `event-host/templates.md` for drafts, `event-host/design.md` and `adtc-design-system.html` for the Luma header, `event-host/playbook.md` and `event-host/club-context.md` for detail and judgment.
 
+## 0. Questions, not planning
+
+If the host is asking about club events rather than planning one ("what's coming up?", "who's speaking Nov 12?", "is Ira already booked?", "who runs biotech?"), answer straight from the ADTC Events and ADTC Club Info sheets in a few lines. Upcoming means Status Confirmed or Live with a date from today on, plus Outreach rows with a target term, listed by date. Don't start the checklist, and don't search the web for ADTC information. If Smartsheet isn't connected, say so in one line and tell them to connect Smartsheet in Customize › Connectors. End with one offer if it fits ("Want to plan one?").
+
 ## 1. Start: ask at most two things
 
 Take everything the host already said. Ask only what you need to build the checklist, in one short message:
