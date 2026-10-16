@@ -23,7 +23,7 @@ Never read the repo through a web-page fetch; that returns a summary, not the ex
 
 ## 2. Follow the instructions
 
-Read `event-host/INSTRUCTIONS.md` under the root and follow it exactly. Every path it mentions is relative to the same root. It points you to the playbook, club context, copy templates, the design system file, and the Club info tab of the Events Tracker for private details (roster, emails, budget rules).
+Read `event-host/INSTRUCTIONS.md` under the root and follow it exactly. Every path it mentions is relative to the same root. It points you to the playbook, club context, copy templates, the design system file, and the ADTC Club Info sheet in Smartsheet for private details (roster, emails, budget rules).
 
 ## 3. Changes
 

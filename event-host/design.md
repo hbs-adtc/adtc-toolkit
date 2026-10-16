@@ -12,7 +12,7 @@ Everything visual lives in one file: `adtc-design-system.html` (repo root) (toke
 
 ## Slides and email signature
 
-For a club deck, build from `tpl-slide-title`, `tpl-slide-thesis`, `tpl-slide-agenda`, `tpl-slide-pillars` and `tpl-slide-closing` (1920 x 1080 each). For an officer's email signature, use `tpl-email-signature`; Gmail strips SVG, so render the mark to PNG first.
+For a club deck, build from `tpl-slide-title`, `tpl-slide-thesis`, `tpl-slide-agenda`, `tpl-slide-pillars` and `tpl-slide-closing` (1920 x 1080 each). For an officer's email signature, use `tpl-email-signature`; Gmail and Outlook strip SVG, so render the mark to PNG first.
 
 The repo also holds `A_DT_Club_Deck.html`, the original Claude Design export. It's a compiled bundle for people to view; don't try to read or edit it.
 
