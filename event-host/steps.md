@@ -1,11 +1,11 @@
 # Checklist steps
 
-The base list is for a speaker event (fireside or panel). Adjust it by event type with the table at the bottom. Links not written here are in the Club info tab.
+The base list is for a speaker event (fireside or panel). Adjust it by event type with the table at the bottom. Links not written here are in the ADTC Club Info sheet in Smartsheet. Tracker columns and rules are in `event-host/tracker.md`.
 
 | # | Step | When | Link | What Claude can do | What Claude needs from the host |
 |---|---|---|---|---|---|
-| 1 | Add it to the tracker | Today | Events Tracker | Check for clashes within 3 days and for a speaker another leader is already working; propose the full row (next ADTC ID, Status Idea or Outreach, Owner matched from the Club info roster) and write it after a yes | Nothing, unless the proposed title or owner is wrong |
-| 2 | Lock speaker and date | 6 to 5 weeks out | Events Tracker (Speakers column), LinkedIn | Research the speaker; draft the ask or a warm-intro request; propose 3 open dates | Speaker name or LinkedIn; anyone who can intro |
+| 1 | Add it to the tracker | Today | ADTC Events (Smartsheet) | Check for clashes within 3 days and for a speaker another leader is already working; propose the full row (next ADTC ID, Status Idea or Outreach, Owner matched from the Club Info roster) and write it after a yes | Nothing, unless the proposed title or owner is wrong |
+| 2 | Lock speaker and date | 6 to 5 weeks out | ADTC Events (Speakers column), LinkedIn | Research the speaker; draft the ask or a warm-intro request; propose 3 open dates | Speaker name or LinkedIn; anyone who can intro |
 | 3 | Book the room | 5 to 4 weeks out | my.hbs.edu › Reserve a Room › Create a Reservation › Classrooms › Group: Automation & Deep Tech | Give the exact steps and default room; update the tracker | The host books it (HBS sign-in), then tells Claude the room |
 | 4 | Add to the MBA calendar | Right after booking | MBA event calendar | Write the listing text to paste | The host submits it (HBS sign-in) |
 | 5 | Luma page and header | 4 weeks out | Club Luma calendar | Write title and description; make the 1080x1080 header from the design system | Headshots; co-host logo if any |
@@ -15,7 +15,7 @@ The base list is for a speaker event (fireside or panel). Adjust it by event typ
 | 9 | Questions or run of show | 1 week out | | Draft fireside questions from the speaker's real background, or a timed run of show | Anything the speaker sent |
 | 10 | WhatsApp bump | 48 hours out | | Write the reminder | The host posts it |
 | 11 | Day of: photos | Event day | | One-line reminder only | |
-| 12 | Thank-you and close out | Day after | Events Tracker | Draft the thank-you; mark the row Done | Anything that went well, for the note |
+| 12 | Thank-you and close out | Day after | ADTC Events (Smartsheet) | Draft the thank-you; mark the row Done | Anything that went well, for the note |
 
 ## By event type
 

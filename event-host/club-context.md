@@ -29,11 +29,11 @@ Robotics, Future of Compute, Biotech, Climate Tech, Manufacturing, Materials Sci
 
 ## Defaults, roster and links
 
-These live in the **Club info** tab of the Events Tracker (Google Sheet `1h-0A2Bo4Pb_6iMY1T45EFFF61b3G6tc6BNPnI4NFrxg`), not in this file, because this skill is published in a public repo. Read that tab at the start of every run. It holds:
+These live in the **ADTC Club Info** sheet in Smartsheet (see `event-host/tracker.md`), not in this file, because this repo is public. Read it at the start of every run. It holds:
 - **Leadership roster** with roles, pillars and emails. Use it to match the host to their Owner name, address approval requests, and tell the host who to coordinate with on a conflict.
 - **Defaults:** room, time slot, food budget cap and who approves spending.
 - **Links:** playbook doc, Luma calendar, MBA event calendar, HUDS catering request and menu.
 
-If the tab can't be read (no Sheets connector, or the sheet isn't shared with this person), say so, ask the host to get Editor access from Tyler, and ask them for any value you need instead of guessing.
+If it can't be read, follow `event-host/tracker.md`.
 
 "Quantum" in a role means the Future of Compute pillar.

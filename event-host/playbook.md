@@ -10,7 +10,7 @@ Fill these in. Until a link is filled, tell the host it is missing; do not guess
 |---|---|
 | Playbook (Google Doc) | https://docs.google.com/document/d/1P7C-a_H9w9Z2l7vRBthY7OWOfBanT4MWedPHQ51R4RE |
 | Speaker Tracker | Use the Events Tracker (Speakers, Organization and Contact columns) until a separate one exists |
-| Automation & Deep Tech Events Tracker (event repository; also the de facto speaker list) | https://docs.google.com/spreadsheets/d/1h-0A2Bo4Pb_6iMY1T45EFFF61b3G6tc6BNPnI4NFrxg |
+| Automation & Deep Tech Events Tracker (event repository; also the de facto speaker list) | ADTC Events sheet in the ADTC Smartsheet workspace |
 | Automation & Deep Tech Luma calendar | https://luma.com/deeptechathbs |
 | ADTC design system | `adtc-design-system.html` at the repo root |
 | HBS Academic Calendar | TODO |
@@ -58,7 +58,7 @@ Pick a date that avoids exams, breaks and other conflicts. Do not book a room or
 Usually this takes at least two meetings to hammer out the content. Speakers do not always know what they should talk about, even when they confidently say they do. Review their slides and check for the content that will be most valuable for students.
 
 ### 5. Book a room
-Default room and time slot are in the Club info tab. No other HBS approval is needed.
+Default room and time slot are in the ADTC Club Info sheet. No other HBS approval is needed.
 
 On my.hbs.edu:
 1. Reserve a Room
@@ -78,7 +78,7 @@ Then put the event on the MBA event calendar (link above; the host signs in).
 - Create it under the Automation & Deep Tech Luma calendar.
 
 ### 7. Food
-Decide 3 to 4 weeks out. If catering, finalize 2 weeks out. The budget cap and who approves spending are in the Club info tab; get approval before anything is spent.
+Decide 3 to 4 weeks out. If catering, finalize 2 weeks out. The budget cap and who approves spending are in the ADTC Club Info sheet; get approval before anything is spent.
 - HUDS does catering, roughly $15 to $30 per person. Menu: https://www.dining.harvard.edu/crimson-catering-events/catering. Request form: https://harvarduniversity.tripleseat.com/party_request/43932?hide_banner=1
 - Joe's pizza is a good last-minute option.
 
@@ -106,4 +106,4 @@ Short reminder in the same channels.
 ### 11. Take pictures!!
 
 ### 12. Add the event to the event repository
-Automation & Deep Tech Events Tracker (Events tab). Set Status to Done and clear Next step. Don't copy RSVPs or attendance; the Luma link covers them.
+ADTC Events sheet in Smartsheet. Set Status to Done and clear Next step. Don't copy RSVPs or attendance; the Luma link covers them.
