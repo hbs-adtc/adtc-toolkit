@@ -8,6 +8,21 @@ Make Harvard the epicenter of deep tech commercialization in Boston, and eventua
 ## Pillars
 Robotics, Future of Compute, Biotech, Climate Tech, Manufacturing, Materials Science. Each pillar has a head and an events lead who own its events.
 
+## Leadership (2026-27)
+
+Club leads, as equals: Tyler Mangini (Co-President), Gurshaan Madan (Co-President), Tom Stotzer (COO), Nathan Alam (CFO). Shalaka Madge runs Comms.
+
+| Pillar | Pillar head | Events lead |
+|---|---|---|
+| Robotics | Dixun Cui | Tyler Mangini |
+| Future of Compute | Nik Karaffa | Daniel Jung (with Gurshaan Madan) |
+| Biotech | Mai Tran | Sanjeevani Marcha |
+| Climate Tech | Harsh Sanghi | Shalaka Madge |
+| Manufacturing | Alishan Salim | Tom Stotzer |
+| Materials Science | Sam Rae | Open |
+
+Each pillar head and events lead co-own their pillar's events as partners; don't present one as senior to the other. Spending goes through Nathan. Emails are in the ADTC Club Info sheet, not here.
+
 ## Event goals
 - At least one flagship event per pillar per semester, owned by that pillar's head and events lead.
 - Anchor formats: fireside chats, panels, workshops, office hours, small-group dinners, lab or office visits.
