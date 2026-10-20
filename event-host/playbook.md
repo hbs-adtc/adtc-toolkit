@@ -27,7 +27,7 @@ Steps marked [playbook] carry the timing the playbook states. Steps marked [sugg
 | T-6 to T-5 weeks | 3. Check the academic calendar and lock the date | [suggested] |
 | T-5 to T-2 weeks | 4. Meet with the speaker, at least twice | [suggested] |
 | T-5 to T-4 weeks | 5. Book a room and put it on the MBA calendar | [suggested] |
-| T-4 weeks | 6. Create the Luma | [suggested] |
+| T-4 weeks | 6. Create the Luma; send a calendar invite to all members | [suggested] |
 | T-4 to T-3 weeks | 7. Decide on food; finalize catering by T-2 weeks | [playbook] |
 | T-2 weeks | 8. Blast in WhatsApp | [playbook] |
 | T-1 week | 9. Questions (fireside) or itinerary (workshop) | [playbook] |
@@ -73,9 +73,14 @@ Alternative spaces if HBS rooms are full or a different feel is needed:
 
 Then put the event on the MBA event calendar (link above; the host signs in).
 
-### 6. Create a Luma
+### 6. Create a Luma and send a calendar invite
 - Make the header from the design system file (see event-host/design.md).
 - Create it under the Automation & Deep Tech Luma calendar.
+- Make sure it lands on the club calendar (https://luma.com/deeptechathbs). Either way works:
+  - Leadership team: sign in to Luma with the club's leadership group account (address in the ADTC Club Info sheet) and create the event there. It goes straight onto the calendar.
+  - Anyone else, or if you created it from your own Luma account: go to https://luma.com/deeptechathbs, click Submit Event, and pick your event.
+- Until one of these is done, it won't show on the club calendar. Check the calendar afterward to confirm it's listed.
+- Send a calendar invite to all club members once the Luma is live. Include the title, date and time, room, and the Luma link, and ask people to RSVP on Luma. The member list is in the ADTC Club Info sheet.
 
 ### 7. Food
 Decide 3 to 4 weeks out. If catering, finalize 2 weeks out. The budget cap and who approves spending are in the ADTC Club Info sheet; get approval before anything is spent.
