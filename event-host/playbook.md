@@ -76,6 +76,7 @@ Then put the event on the MBA event calendar (link above; the host signs in).
 ### 6. Create a Luma
 - Make the header from the design system file (see event-host/design.md).
 - Create it under the Automation & Deep Tech Luma calendar.
+- Then submit it to the club calendar: go to https://luma.com/deeptechathbs, click Submit Event, and pick your event. Until you do, it won't show on the club calendar. Check the calendar afterward to confirm it's listed.
 
 ### 7. Food
 Decide 3 to 4 weeks out. If catering, finalize 2 weeks out. The budget cap and who approves spending are in the ADTC Club Info sheet; get approval before anything is spent.

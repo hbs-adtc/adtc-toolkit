@@ -8,7 +8,7 @@ The base list is for a speaker event (fireside or panel). Adjust it by event typ
 | 2 | Lock speaker and date | 6 to 5 weeks out | ADTC Events (Speakers column), LinkedIn | Research the speaker; draft the ask or a warm-intro request; propose 3 open dates | Speaker name or LinkedIn; anyone who can intro |
 | 3 | Book the room | 5 to 4 weeks out | my.hbs.edu › Reserve a Room › Create a Reservation › Classrooms › Group: Automation & Deep Tech | Give the exact steps and default room; update the tracker | The host books it (HBS sign-in), then tells Claude the room |
 | 4 | Add to the MBA calendar | Right after booking | MBA event calendar | Write the listing text to paste | The host submits it (HBS sign-in) |
-| 5 | Luma page and header | 4 weeks out | Club Luma calendar | Write title and description; make the 1080x1080 header from the design system | Headshots; co-host logo if any |
+| 5 | Luma page and header | 4 weeks out | Club Luma calendar | Write title and description; make the 1080x1080 header from the design system; remind the host to submit the event at https://luma.com/deeptechathbs so it shows on the club calendar | Headshots; co-host logo if any; the host submits the event to the club calendar and confirms it's listed |
 | 6 | Food | Decide 4 to 3 weeks out, order by 2 weeks out | HUDS request form and menu | Pick an option inside the budget cap; draft the approval note to the approver | Expected headcount; any sponsor covering food |
 | 7 | Prep call(s) with the speaker | 5 to 2 weeks out | | Draft the prep agenda; suggest what to cut or expand once slides arrive | Speaker's slides or notes |
 | 8 | WhatsApp blast | 2 weeks out | Channel list in event-host/playbook.md step 8 | Write the blast | The host posts it |
